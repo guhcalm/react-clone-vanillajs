@@ -12,5 +12,5 @@ The render process has 2 phases, but the reconciliation algorithm is little `poo
 
 ## Git-Page ##
 ```
-https://guhcalm.github.io/git-clone-vanillajs/
+https://guhcalm.github.io/react-clone-vanillajs/public/
 ```
