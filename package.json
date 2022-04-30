@@ -1,0 +1,10 @@
+{
+    "name": "my-react-clone",
+    "author": "Gustavo Henrique <guhcalm@outlook.com>",
+    "version": "0.0.1",
+    "description": "My React Clone BoilerPlate - with Vanilla JS",
+    "scripts": {},
+    "repository": {},
+    "keywords": [],
+    "license": "MIT"
+}
