@@ -1,5 +1,5 @@
 # React Clone #
-This `Project` trys reply some plain `React` behaviors.
+This is a unpretentious, who `Project` trys reply some plain `React` behaviors.
 
 ## Hooks ##
 Contains suport to `useState`, and `useEffect`.
